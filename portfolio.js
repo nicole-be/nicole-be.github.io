@@ -47,3 +47,8 @@ window.onscroll = () => {
     }
   })
 }
+
+
+function toggleMobileMenu(menu) {
+  menu.classList.toggle('open');
+}
