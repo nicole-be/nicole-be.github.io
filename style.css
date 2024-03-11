@@ -145,6 +145,9 @@ html {
   width: 100%;
   list-style: none;
   font-weight: bold;
+  justify-content: start;
+  align-items: start;
+  text-align: start;
 }
 
 .navbar {
